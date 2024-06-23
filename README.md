@@ -1,7 +1,7 @@
 
   
 ### <div align="center"><h1> Hi there 👋👨💻</h1></div>  
-### <div align="center"> <h1> I'm Ajay Sharma </h1>a passionate Programmer👨‍💻</div>  
+### <div align="center"> <h1> I'm Ajay Sharma </h1></div>  
   <br/>
 
 - 👨‍🎓 I’m currently pursuing BTech CSE from [MANIT](http://www.manit.ac.in/)  
