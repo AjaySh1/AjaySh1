@@ -23,7 +23,7 @@
 <img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png width=20% alt=codechef  />
 </a>
  
-<a href="https://codeforces.com/profile/ajay.16" target="_blank">
+<a href="https://codeforces.com/profile/ajay.116" target="_blank">
 <img src=https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png width=20% alt=codechef  />
 </a>  
 <a href="https://leetcode.com/u/ajaysharma12/" target="_blank">
