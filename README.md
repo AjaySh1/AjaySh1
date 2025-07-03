@@ -30,7 +30,7 @@
 
 ## 🧠 Competitive Programming
 
-- 🟪 **Expert:** Specialist (Max: 1621) | [Profile](https://codeforces.com/profile/ajay.116)  
+- 🟪 **CodeForces:** Expert (Max: 1621) | [Profile](https://codeforces.com/profile/ajay.116)  
 - 🟨 **LeetCode:** 1900 Rated (Top 4%) | [Profile](https://leetcode.com/u/ajaysharma12/)  
 - 🟦 **CodeChef:** 4★ (Max: 1868) | [Profile](https://www.codechef.com/users/ajaysh1)  
 - 🏅 Solved 1500+ DSA Problems across CF, LC,GFG, CC
