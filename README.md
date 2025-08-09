@@ -11,7 +11,7 @@
 ## 🚀 Tech Stack
 
 - **💻 Languages:**  
-  `C` `C++` `TypeScript` `HTML` `CSS`
+  `C` `C++`  `HTML` `CSS`
 
 - **⚛️ Frameworks & Libraries:**  
   `React.js` `Node.js` `Express.js`
